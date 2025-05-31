@@ -1,0 +1,20 @@
+alien woman (femalien, if you will)
+
+gears on conveyor belts going in circles also acting as borders
+she has no idea what they're for/they're just for decoration
+spin-off idle tycoon game featuring this
+--------
+
+MUSIC         SFX
+(slider)      (slider)
+
+PARTICLES     PARALLAX
+(on/off)      (on/off)
+
+ARCADE #1     ARCADE #3
+ARCADE #2     ARCADE #4
+(shooty)      ()
+(speedrun)    ()
+
+        classic
+		(secret)

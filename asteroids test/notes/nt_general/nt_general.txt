@@ -1,0 +1,20 @@
+the game starts with two asteroids crashing into eachother which gives you 10$
+
+
+go left to access the shop
+go right to access the tailor
+
+make your ship look at boxes to select them and
+shoot at them to use them
+shooting at boxes in the shop explodes them
+shooting at boxes in the tailor doesn't move the boxes at all, just darkens the chosen color
+
+menu could also be navigated by a smaller version of the ship shooting at settings to toggle them
+
+
+replace lives with a system in which you lose half your points each time you die
+
+
+the more points you have, the more points you get, which makes for a sort of risk/reward type deal
+so you can buy something as soon as you have enough points OR
+you can hold on to them and risk losing them all/losing half of all your points

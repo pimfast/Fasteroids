@@ -1,0 +1,52 @@
+BIG & BEAUTIFUL:
+
+RADAR:
+zooms the camera out and increases the play area by infinity(?)
+
+LANDING GEAR:
+grants the wearer the ability to land on planets (normally you just fly over the sprites)
+
+---
+
+MOVEMENT:
+
+BRAKE:
+quickly stops foward momentum
+
+BACKWARDS BOOST:
+replaces brake with a boost that goes backwards
+
+BARREL ROLL:
+a quick boost fowards or backwards with invincibility frames
+
+---
+
+OFFENSE:
+
+LASER:
+shoot damaging lasers out of the front of the ship
+
+DOUBLE TROUBLE:
+shoot two lasers parallel to eachother
+
+MISSILE LAUNCHER:
+shoot explosive missles every 6 seconds
+
+TRIPLE FINISH:
+shoot three lasers
+
+
+---
+
+PROTECTION:
+
+SHIELD:
+protects the wearer from 1 hit with a 30 second cooldown
+
+SONIC SHIELD:
+cuts cooldown time by half
+
+BOOM BUBBLE:
+shield damage causes explosions
+
+---

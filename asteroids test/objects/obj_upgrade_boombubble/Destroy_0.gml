@@ -1,0 +1,1 @@
+obj_game.item_owned_boombubble = true

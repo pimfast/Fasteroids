@@ -1,0 +1,69 @@
+the dialogue will NOT stop player movement
+
+there will be a space between each seperate dialogue box and two spaces between every conversation
+
+whenever you enter he says some random dialogue from the list below the list below with a cooldown of 60 seconds after you leave
+
+------------------------------------------------------------------------------------------------------------
+
+WELCOME TO THE GRAND OPENING OF THE SHOP!
+
+To the right you'll find the enhancements. You are absolutely gonna want those.
+
+To the left you'll find the upgrades. Those are pretty much just bigger enhancements.
+
+Over here you'll find the counter. There is a guy standing here named Wyatt. (that's me haha)
+
+[player goes to enhancments and then comes back]
+
+*looks up at the score* Only 10 points eh?
+
+That's not quite enough for the laser enhancement but since you're my first customer you get a discount!
+
+Very generous of me, I know.
+
+-------------------------------
+
+I heard the explosion out there and I just knew someone gained points!
+
+I set up this shop as quickly as I could.
+
+Glad I finally have someone to sell all this stuff to.
+
+
+You may be wondering:
+
+"What's Wyatt gonna do with all this money?"
+
+Buy more upgrades and enhancements for this store of course!
+
+I know a guy.
+
+...
+
+I wonder what he does with the money?
+
+
+I would've gotten upset at you for bringing your whole ship into my shop
+but honestly there's nothing in here for you to break
+
+That is, except my heart.
+
+Just kidding!
+
+It's already broken.
+
+
+Bet you're real curious what I look like under this helmet.
+
+But have you ever considered the possibility this helmet is actually just my face?
+
+After all, there is oxygen in here.
+
+Daahhh I'm just joshin' ya. This shop has no oxygen.
+
+Though maybe installing a field COULD get me more customers.
+
+
+[if the player is wearing something different for the first time]
+Lookin' spiffy!
