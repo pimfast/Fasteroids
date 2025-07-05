@@ -1,9 +1,9 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_intro_carpet",
+  "$GMObject": "",
+  "%Name": "obj_intro_carpet",
   "eventList": [],
   "managed": true,
+  "name": "obj_intro_carpet",
   "overriddenProperties": [],
   "parent": {
     "name": "Intro",
@@ -24,6 +24,8 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
+  "resourceType": "GMObject",
+  "resourceVersion": "2.0",
   "solid": false,
   "spriteId": null,
   "spriteMaskId": null,

@@ -1,9 +1,9 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_shipsensor",
+  "$GMObject": "",
+  "%Name": "obj_shipsensor",
   "eventList": [],
   "managed": true,
+  "name": "obj_shipsensor",
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
@@ -29,6 +29,8 @@
   ],
   "physicsStartAwake": true,
   "properties": [],
+  "resourceType": "GMObject",
+  "resourceVersion": "2.0",
   "solid": false,
   "spriteId": {
     "name": "spr_ship_classic",

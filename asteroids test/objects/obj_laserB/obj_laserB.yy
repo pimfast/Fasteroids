@@ -1,9 +1,9 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "obj_laserB",
+  "$GMObject": "",
+  "%Name": "obj_laserB",
   "eventList": [],
   "managed": true,
+  "name": "obj_laserB",
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
@@ -27,6 +27,8 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
+  "resourceType": "GMObject",
+  "resourceVersion": "2.0",
   "solid": false,
   "spriteId": {
     "name": "spr_laserB",
